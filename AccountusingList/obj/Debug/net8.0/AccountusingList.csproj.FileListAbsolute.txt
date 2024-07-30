@@ -1,0 +1,17 @@
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\AccountusingList.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\AccountusingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\AccountusingList.AssemblyInfoInputs.cache
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\AccountusingList.AssemblyInfo.cs
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\AccountusingList.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\bin\Debug\net8.0\AccountusingList.exe
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\bin\Debug\net8.0\AccountusingList.deps.json
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\bin\Debug\net8.0\AccountusingList.runtimeconfig.json
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\bin\Debug\net8.0\AccountusingList.dll
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\bin\Debug\net8.0\AccountusingList.pdb
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\Accountu.35705530.Up2Date
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\AccountusingList.dll
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\refint\AccountusingList.dll
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\AccountusingList.pdb
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\AccountusingList.genruntimeconfig.cache
+C:\Users\sanskruti.itkar\source\repos\AccountusingList\obj\Debug\net8.0\ref\AccountusingList.dll
